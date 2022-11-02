@@ -28,4 +28,4 @@ The R-code is available [here](https://github.com/cawyse9/Machine-Learning-Class
 The overall accuracy of Model 2 was 0.8427 while Model 3 had a slightly higher accuracy of 0.8696, but this difference is small and probably doesn’t represent a functionally important difference in model performance between the two models. Both models perform well in classifying Mormoopidae, compared to the other bat species (94% and 89% correctly classified for model 2 and 3, respectively).    
 
 ## Acknowledgements
-This project was awarded an A grade as part of the coursework required for the module, "Machine Learning" for an a MSc (Data Analytics) course at UCD in 2022. 
+This project was submitted as part of the coursework required for the module, "Machine Learning" for an a MSc (Data Analytics) course at UCD in 2022. 
