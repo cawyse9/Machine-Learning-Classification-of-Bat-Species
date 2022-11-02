@@ -1,6 +1,6 @@
 # Machine-Learning-Classification-of-Bat-Species
 
-<img align="right" height=150 src="https://user-images.githubusercontent.com/29300100/196709192-fd2362ec-8d9c-4ebf-a4bd-c7ddd2b3e4b2.png">
+<img align="right" height=180 src="https://user-images.githubusercontent.com/29300100/196709192-fd2362ec-8d9c-4ebf-a4bd-c7ddd2b3e4b2.png">
 
 
 ## Background
